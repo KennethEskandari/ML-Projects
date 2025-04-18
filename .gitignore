@@ -1,5 +1,20 @@
-venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-.DS_Store
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
+
+# VSCode or PyCharm settings
+.vscode/
+.idea/
+
+# Mac/Linux system files
+.DS_Store
+/
