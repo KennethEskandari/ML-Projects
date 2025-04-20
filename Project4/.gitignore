@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Jupyter and Quarto stuff
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user/
+*.html
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
